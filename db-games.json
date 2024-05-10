@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "descricao": "Ação",
+      "nome": "Homem Aranha",
+      "foto": "homem-aranha.jpg",
+      "preco": 350
+    },
+    {
+      "id": "3",
+      "descricao": "Corrida",
+      "nome": "Mario Kart 8",
+      "foto": "mario-kart.jpg",
+      "preco": 260
+    },
+    {
+      "id": "4",
+      "descricao": "RPG",
+      "nome": "Final Fantasy VII",
+      "foto": "final-fantasy-7.jpg",
+      "preco": 350
+    },
+    {
+      "id": "5",
+      "descricao": "Terror",
+      "nome": "Resident Evil 4 Remake",
+      "foto": "resident-evil-4.png",
+      "preco": 250
+    }
+  ]
+}

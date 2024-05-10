@@ -1,0 +1,36 @@
+<main>
+  <section id="login-section">
+    <form>
+      <h3>Acesse sua conta:</h3>
+      <div class="mb-3">
+        <label for="exampleInputEmail1" class="form-label">Usuário</label>
+        <input
+          type="text"
+          name="usuario"
+          [(ngModel)]="usuario"
+          class="form-control"
+          id="exampleInputEmail1"
+          aria-describedby="emailHelp"
+        />
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Senha</label>
+        <input
+          type="password"
+          name="senha"
+          [(ngModel)]="senha"
+          class="form-control"
+          id="exampleInputPassword1"
+        />
+      </div>
+      <div class="button-div">
+        <button type="submit" class="btn btn-primary" (click)="fazerlogin()">
+          Login
+        </button>
+      </div>
+    </form>
+  </section>
+</main>
+<footer>
+  <p>Desenvolvido por Wesley</p>
+</footer>

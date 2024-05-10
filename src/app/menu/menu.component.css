@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+  p{
+    margin: 0;
+  }
+
+
+  span{
+    padding: 5px;
+  }
+
+  img{
+    height: 50px;
+    width: 50px;
+  }
+
+  a{
+    text-decoration: none;
+    color: white;
+  }

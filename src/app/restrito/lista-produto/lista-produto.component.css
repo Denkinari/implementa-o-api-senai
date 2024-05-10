@@ -1,0 +1,12 @@
+table img {
+    height: 50px;
+    width: 50px;
+}
+
+footer{
+    background: rgb(24, 23, 23);
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
+}
